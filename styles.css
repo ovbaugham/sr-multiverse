@@ -13,7 +13,7 @@ body{
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: content;
   background-clip: padding-box;
 }
 /* style the header */
