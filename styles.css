@@ -1,0 +1,83 @@
+/* Place your CSS styles in this file */
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+     background-image: url("https://i.pinimg.com/originals/82/1e/52/821e528a63f44e601661a873bd7ebf7a.jpg");
+
+
+  /* Full height */
+  height: 80%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-clip: padding-box;
+}
+/* style the header */
+.header{
+    background-color: hsla(240, 100%, 50%, 0.5);
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style top nav bar */
+.topnav{
+  
+    overflow: hidden;
+    background-color: hsla(240, 100%, 50%, 0.5);
+       width: 150px;
+    }
+
+/* Style topnav links */
+.topnav a{
+   margin: 0;
+
+    display: block;
+    color: #f2f2f2;
+    text-align: left;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+/* change color on hover */
+.topnav a:hover{
+background-color: #ddd;
+color: blue;
+}
+h1 {
+    text-align: left;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+}
+h2,p, li{
+  color: hsl(0, 0%, 100%);
+}
+p, li{
+  color: hsla(0, 0%, 100%, 0);
+}
+
+p:hover, li:hover{
+color: black;
+font-size: 20px;
+background-color: white;
+}
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 15px;
+  
+}
+/* Clear floats after the columns */
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width:600px) {
+  .column {
+    width: 100%;
+  }
+}
