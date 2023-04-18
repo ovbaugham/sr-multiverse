@@ -82,7 +82,7 @@
  
  .hero-section {
     position: relative;
-    width: 100%;
+    width: 75%;
     display: block;
     overflow: hidden;
     height: 100vh;
@@ -99,10 +99,11 @@
 }
 .bi{
     position: relative;
-    width: 100%;
+    width: 75%;
     display: block;
     overflow: hidden;
     height: 100vh;
+    background-color: aqua;
     background-size: contain;
     background-position: center;
     transform: scale(1) rotateX(0);
