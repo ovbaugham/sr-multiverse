@@ -143,7 +143,7 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: 30px 30px;
-    background-image: img src="pictures\AFF.jpg";
+    background-image: url('pictures\AFF.jpg');
     opacity: 0.2;
     -webkit-transition: all 200ms linear;
     transition: all 200ms linear;
@@ -207,7 +207,7 @@ body.IGposts-on .hero-section {
     background-repeat: no-repeat;
     background-position: center;
     background-size: 30px 30px;
-    background-image: img src="pictures\AFF.jpg";
+    background-image: url('pictures\AFF.jpg');
     opacity: 0.2;
     -webkit-transition: all 200ms linear;
     transition: all 200ms linear;
@@ -248,7 +248,7 @@ body.about-on .about-section {
     background-repeat: no-repeat;
     background-position: center;
     background-size: 36px 36px;
-    background-image: img src="pictures\AFF.jpg";
+    background-image: url('pictures\AFF.jpg');
     cursor: pointer;
     z-index: 11;
 }
