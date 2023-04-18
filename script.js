@@ -39,12 +39,12 @@
   $(".contact-close").on('click', function () {
     $("body").removeClass("contact-on");
   });
-  //Portrait portfolio page
-  $(".Portrait").on('click', function () {
-    $("body").addClass("Portrait-on");
+  //portrait portfolio page
+  $(".portrait").on('click', function () {
+    $("body").addClass("portrait-on");
   });
-  $(".Portrait-close").on('click', function () {
-    $("body").removeClass("Portrait-on");
+  $(".portrait-close").on('click', function () {
+    $("body").removeClass("portrait-on");
   });
   //landscape portfolio page
   $(".landscape").on('click', function () {
