@@ -86,7 +86,7 @@
     display: block;
     overflow: hidden;
     height: 100vh;
-    background-image: img src="pictures\AFF.jpg";
+    background-image: url('pictures\AFF.jpg');
     background-size: cover;
     background-position: center;
     transform: scale(1) rotateX(0);
