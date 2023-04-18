@@ -39,25 +39,25 @@
   $(".contact-close").on('click', function () {
     $("body").removeClass("contact-on");
   });
-  //Travel portfolio page
-  $(".travel").on('click', function () {
-    $("body").addClass("travel-on");
+  //Portrait portfolio page
+  $(".Portrait").on('click', function () {
+    $("body").addClass("Portrait-on");
   });
-  $(".travel-close").on('click', function () {
-    $("body").removeClass("travel-on");
+  $(".Portrait-close").on('click', function () {
+    $("body").removeClass("Portrait-on");
   });
-  //Wildlife portfolio page
-  $(".wildlife").on('click', function () {
-    $("body").addClass("wildlife-on");
+  //landscape portfolio page
+  $(".landscape").on('click', function () {
+    $("body").addClass("landscape-on");
   });
-  $(".wildlife-close").on('click', function () {
-    $("body").removeClass("wildlife-on");
+  $(".landscape-close").on('click', function () {
+    $("body").removeClass("landscape-on");
   });
- //Nature portfolio page
- $(".nature").on('click', function () {
-  $("body").addClass("nature-on");
+ //IGposts portfolio page
+ $(".IGposts").on('click', function () {
+  $("body").addClass("IGposts-on");
 });
-$(".nature-close").on('click', function () {
-  $("body").removeClass("nature-on");
+$(".IGposts-close").on('click', function () {
+  $("body").removeClass("IGposts-on");
 });
 (jQuery); 
