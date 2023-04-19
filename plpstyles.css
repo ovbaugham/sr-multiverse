@@ -84,10 +84,9 @@
     position: relative;
     width: 100%;
     display: block;
-    overflow: visible;
+    overflow: hidden;
     height: 100vh;
-    margin: auto;
-    border: 50px darkblue;
+    background-image: url('http://www.ivang-design.com/svg-load/portfolio/photo.jpg');
     background-size: cover;
     background-position: center;
     transform: scale(1) rotateX(0);
