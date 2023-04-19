@@ -65,10 +65,10 @@
     border:none
 }
 .cursor2{
-    border: 2px solid #fff;
+    border: 2px solid rgb(6, 1, 20);
 }
 .cursor2.hover{
-    background: rgba(255,255,255,1);
+    background: rgb(6, 1, 34);
     border-color: transparent;
 }
 
@@ -113,7 +113,7 @@
     transform-origin: center top;  
 }
 .hero-section h1{
-    color: #fff;
+    color: black;
     font-size: 5vw;
     line-height: 1;
     font-weight: 900;
@@ -135,7 +135,7 @@
     font-size: 15px;
     line-height: 20px;
     font-weight: 500;
-    color: #fff;
+    color: black;
     letter-spacing: 1px;
 }
 .hero-section p span{
