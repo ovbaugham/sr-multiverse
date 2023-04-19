@@ -102,8 +102,8 @@
     position: relative;
     width: 100%;
     display: block;
-    overflow: visible;
-    height: 100vh;
+    overflow: hidden;
+    
     margin: auto;
     border: 50px darkblue;
     background-size: contain;
