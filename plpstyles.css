@@ -387,7 +387,7 @@ body.contact-on .contact-section {
 .portrait-section,
  .landscape-section,
  .IGposts-section {
-     position: fixed;
+     position: absolute;
      top: 100%;
      left: 0;
      padding: 100px 0;
