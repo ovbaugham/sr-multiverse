@@ -84,7 +84,7 @@
     position: relative;
     width: 100%;
     display: block;
-    overflow: hidden;
+    overflow: visible;
     height: 100vh;
      background-size: cover;
     background-position: center;
@@ -100,7 +100,7 @@
     position: relative;
     width: 100%;
     display: block;
-    overflow: hidden;
+    overflow: visible;
     height: 100vh;
     background-size: cover;
     background-position: center;
