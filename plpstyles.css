@@ -86,7 +86,9 @@
     display: block;
     overflow: visible;
     height: 100vh;
-     background-size: contain;
+    margin: auto;
+    border: 50px darkblue;
+    background-size: contain;
     background-position: center;
     transform: scale(1) rotateX(0);
     box-shadow: 0 0 40px rgba(0,0,0,0.2);
