@@ -4,7 +4,7 @@
  body{
     font-family: 'Poppins', snas-serif;
     font-weight: 300;
-    font-size: 15px;
+    font-size: 30px;
     line-height: 1.6;
     color: #fff;
     background-color: #1f2029;
@@ -387,7 +387,7 @@ body.contact-on .contact-section {
 .portrait-section,
  .landscape-section,
  .IGposts-section {
-     position: absolute;
+     position: fixed;
      top: 100%;
      left: 0;
      padding: 100px 0;
