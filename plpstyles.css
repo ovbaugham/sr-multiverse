@@ -87,7 +87,7 @@
     overflow: hidden;
     height: 80vh;
     background-color: aqua;
-    background-size: contain;
+    background-size: cover;
     background-position: center;
     transform: scale(1) rotateX(0);
     box-shadow: 0 0 40px rgba(0,0,0,0.2);
@@ -104,7 +104,7 @@
     overflow: hidden;
     height: 80vh;
     background-color: aqua;
-    background-size: contain;
+    background-size: cover;
     background-position: center;
     transform: scale(1) rotateX(0);
     box-shadow: 0 0 40px rgba(0,0,0,0.2);
