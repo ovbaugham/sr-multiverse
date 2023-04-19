@@ -99,7 +99,7 @@
     transform-origin: center top;
 }
 .bi{
-    position: relative;
+    position: absolute;
     width: 100%;
     display: block;
     overflow: hidden;
